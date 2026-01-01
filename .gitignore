@@ -1,1 +1,16 @@
+# Visual Studio / Rider
+.vs/
+*.user
+*.suo
 *.csproj.user
+
+# .NET build outputs
+bin/
+obj/
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
